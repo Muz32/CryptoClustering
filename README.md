@@ -25,8 +25,8 @@ The dataset was provided by edX Boot Camps LLC.
 
 ## Folder Structure
 ### CryptoClustering (Root)
+```
 ├── `Crypto_Clustering.ipynb` - Jupyter notebook containing the complete analysis)
 └── `Resources/`
       └── crypto_market_data.csv - CSV file with the cryptocurrency market data)
-       
 ```
